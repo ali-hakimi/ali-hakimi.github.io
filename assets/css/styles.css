@@ -441,7 +441,7 @@ svg {
 .careers__icon {
   display: block;
   font-size: 4rem;
-  color: var(--first-color);
+  color: hsl(205.44deg 68.54% 52.45%);
 }
 
 .career__title {
